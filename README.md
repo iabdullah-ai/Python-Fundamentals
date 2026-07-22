@@ -10,6 +10,7 @@ WLCOME! THIS REPOSITORY IS A COLLECTION OF THE PROJECTS AND LOGIC I BUILT FROM S
 * **PROJECT 4 : coderproject.py
 * ( this project converts your message into a code and also decode the message if you have the code logic )
 * **PROJECT 5 : snake water gun game ( made using random module in python)
+* **PROJECT 6 : using this script i renamed the clutter of randomly named png files to get them organised 
   ## Tech Stack
   * ** Language : python 3
   * ** Tools: *VS code , Github 
