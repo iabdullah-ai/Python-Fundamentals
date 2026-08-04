@@ -12,7 +12,9 @@ WLCOME! THIS REPOSITORY IS A COLLECTION OF THE PROJECTS AND LOGIC I BUILT FROM S
 * **PROJECT 5 : snake water gun game ( made using random module in python)
 * **PROJECT 6 : using this script i renamed the clutter of randomly named png files to get them organised
 * **PROJECT 7 : this is a terminal based application where we can merge number of pdfs.
-* (used python pypdf module for this project) 
+* (used python pypdf module for this project)
+* **PROJECT 8: a command line utility to download internet stuff conveniently.
+* (used argparse and requests library for this project)
   ## Tech Stack
   * ** Language : python 3
   * ** Tools: *VS code , Github 
