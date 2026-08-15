@@ -15,6 +15,8 @@ WLCOME! THIS REPOSITORY IS A COLLECTION OF THE PROJECTS AND LOGIC I BUILT FROM S
 * (used python pypdf module for this project)
 * **PROJECT 8: a command line utility to download internet stuff conveniently.
 * (used argparse and requests library for this project)
+* **PROJECT 9 : A terminal news app for getting your daily news
+* ( used news api and request module of python for this project)
   ## Tech Stack
   * ** Language : python 3
   * ** Tools: *VS code , Github 
